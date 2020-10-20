@@ -1,0 +1,17 @@
+.nav{
+   display: flex;
+  flex-shrink:0;
+  font-size: 15px;
+  font-family: PingFangSC-Semibold,
+  PingFang SC;
+  font-weight: 600;
+  color: #9B9B9B;
+  margin-top: 17px;
+  margin-left: 27px;
+}
+.nav span{
+    padding: 0 12px;
+}
+.nav .act{
+    color:#3370FF;
+}
